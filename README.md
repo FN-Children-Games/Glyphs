@@ -1,6 +1,6 @@
 # Glyphs
 
-Objective: Create a IOS, Android, PC compatable WebGame for children Teaching Syllabic
+Objective: Create a IOS, Android, PC compatable WebGame for children Teaching aboriginal Syllabic
 
 
 
