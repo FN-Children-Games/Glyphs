@@ -1,6 +1,6 @@
 # Glyphs
 
-Built using Unity and C#.
+Built using Unity 2D and C#.
 
 
   Objective: Create a IOS, Android, PC compatable WebGame for children Teaching aboriginal Syllabic
@@ -27,7 +27,7 @@ Intended Gameplay Mechanics:
   -Unity - Syllablic glyph and a standardized CLC Syllabic equivalent, Appear in the top corner of a Canvas UI element using 2 TextMestPro Ui Elements.
   (as Reference for search)
   
-  ![image](https://user-images.githubusercontent.com/26759760/155910780-82badc26-3fa9-473a-8f83-7818631efd90.png)
+  ![image](https://user-images.githubusercontent.com/26759760/155911589-6b2221b2-7bc6-4be0-8553-a8632fe21b73.png)
 
   
   -Unity - a Grid of random Syllablic glyphs and standardized CLC Syllabic equivalent appear in Panel UI Element orgranized in a Grid layout group with 26 TextMestPro Ui Elements.
