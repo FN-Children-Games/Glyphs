@@ -2,6 +2,16 @@
 
 Built using Unity 2D and C#.
 
+C# Temp-Frame work
+
+ClickableLetter.cs
+DisplayLetter.cs
+GameController.cs
+RemainingCounterText.cs
+
+README.md
+
+
 
   Objective: Create a IOS, Android, PC compatable WebGame for children Teaching aboriginal Syllabic
 
@@ -48,7 +58,7 @@ Intended Gameplay Mechanics:
   
 
 
-Inspired by https://game.courses/kidsgame/?ref=15&utm_source=youtube&utm_medium=description&utm_campaign=kidsgame
+Orignal Concept and C# Walkthough: https://game.courses/kidsgame/?ref=15&utm_source=youtube&utm_medium=description&utm_campaign=kidsgame
 
 Lanugage Instruction from Dakelh Elder in Britsh Columbia and abroad.
 For the Children, who will preserve and revitilize the language.
