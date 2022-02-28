@@ -2,9 +2,9 @@
 
 An Open Source Collective creating educational games for learning aboriginal syllabics.
 
-Built using Unity 2D and C#.
 
-C# Temp-Frame work
+
+C# Temporary code Built using Unity 2D and C#.
 
 ClickableLetter.cs
 DisplayLetter.cs
