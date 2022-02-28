@@ -9,6 +9,8 @@ Built using Unity 2D and C#.
 To Do:
 
 
+![image](https://user-images.githubusercontent.com/26759760/155913063-f5959846-8820-4a95-a9d3-944d64e1cb4f.png)
+
 -Using Unified Canadian Aboriginal Syllabics UTF-8 create a font for Syllabic's 
 
   Dakelh / Carrier (Dakelh Preferred)
@@ -34,9 +36,9 @@ Intended Gameplay Mechanics:
   
   
   
-  -C# Script - Randomaize 26 Syllablic glyphs and standardized CLC Syllabic equivalent. 
+  -C# Script - Randomaize 24 Syllablic glyphs and standardized CLC Syllabic equivalent. 
   
-  -C# Script - Have 5 of the 26 letters be the correct answer the rest incorrect.
+  -C# Script - Have 5 of the 24 letters be the correct answer the rest incorrect.
 
   -C# Script - Have the correct letter highlighted when pressed.
   
