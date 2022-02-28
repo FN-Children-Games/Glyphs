@@ -42,3 +42,7 @@ Intended Gameplay Mechanics:
   
 
 
+Inspired by https://game.courses/kidsgame/?ref=15&utm_source=youtube&utm_medium=description&utm_campaign=kidsgame
+
+Lanugage Instruction from Dakelh Elder in Britsh Columbia and abroad.
+For the Children, who will preserve and revitilize the language.
