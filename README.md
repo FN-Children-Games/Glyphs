@@ -22,9 +22,13 @@ To Do:
 
 Intended Gameplay Mechanics:
 
-   
+   ![image](https://user-images.githubusercontent.com/26759760/155910729-f05e2c48-892a-4297-a210-d49b689f8554.png)
+
   -Unity - Syllablic glyph and a standardized CLC Syllabic equivalent, Appear in the top corner of a Canvas UI element using 2 TextMestPro Ui Elements.
   (as Reference for search)
+  
+  ![image](https://user-images.githubusercontent.com/26759760/155910780-82badc26-3fa9-473a-8f83-7818631efd90.png)
+
   
   -Unity - a Grid of random Syllablic glyphs and standardized CLC Syllabic equivalent appear in Panel UI Element orgranized in a Grid layout group with 26 TextMestPro Ui Elements.
   
