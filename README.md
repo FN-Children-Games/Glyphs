@@ -2,26 +2,11 @@
 
 An Open Source Collective creating educational games for learning aboriginal syllabics.
 
-
-
-C# Temporary code Built using Unity 2D and C#.
-
-ClickableLetter.cs
-DisplayLetter.cs
-GameController.cs
-RemainingCounterText.cs
-
 README.md
 
 
+Objective: Create a IOS, Android, PC compatable WebGame for children Teaching aboriginal Syllabic
 
-  Objective: Create a IOS, Android, PC compatable WebGame for children Teaching aboriginal Syllabic
-
-
-To Do:
-
-
-![image](https://user-images.githubusercontent.com/26759760/155913063-f5959846-8820-4a95-a9d3-944d64e1cb4f.png)
 
 -Using Unified Canadian Aboriginal Syllabics UTF-8 create a font for Syllabic's 
 
@@ -36,31 +21,29 @@ To Do:
 
 Intended Gameplay Mechanics:
 
-   ![image](https://user-images.githubusercontent.com/26759760/155910729-f05e2c48-892a-4297-a210-d49b689f8554.png)
-
-  -Unity - Syllablic and a standardized CLC equivalent, Appear in the top corner of a Canvas UI element using 2 TextMestPro Ui Elements.
-  (as Reference for search)
-  
-  ![image](https://user-images.githubusercontent.com/26759760/155911589-6b2221b2-7bc6-4be0-8553-a8632fe21b73.png)
-
-  
-  -Unity - a Grid of random Syllablic and standardized CLC equivalent appear in Panel UI Element orgranized in a Grid layout group with 26 TextMestPro Ui Elements.
-  
-  
-  
-  -C# Script - Randomaize 24 Syllablic and standardized CLC equivalent. 
-  
-  -C# Script - Have 5 of the 24 letters be the correct answer the rest incorrect.
-
-  -C# Script - Have the correct letter highlighted when pressed.
-  
-  -C# Script - Have play's the audio file of sound.
-
-  -C# Script - When All 5 are selected correctly and highlighted move to the next Syllablic and standardized CLC Syllabic equivalent pair.
-  
+Home Screen:
+ 
+Start button & Settings
 
 
-Orignal Concept and C# Walkthough: https://game.courses/kidsgame/?ref=15&utm_source=youtube&utm_medium=description&utm_campaign=kidsgame
+Game:
+  
+a Grid layout of Randomaized 24 Syllablic glyph
+  
+5 of the 24 letters  will be the correct answer the remainer will be incorrect.
 
-Lanugage Instruction from Dakelh Elder in Britsh Columbia and abroad.
-For the Children, who will preserve and revitilize the language.
+Have the correct letter highlighted when pressed.
+
+Have play's the audio of sound.
+
+When All 5 are selected correctly and highlighted move to the next Syllablic glyph
+  
+Assets:
+Background
+Buttons
+Menu
+Icons
+Glyph Sprites
+
+*/ Lanugage Instruction from Dakelh Elder in Britsh Columbia and abroad.
+For the Children, who will preserve and revitilize the language. */
