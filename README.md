@@ -26,7 +26,7 @@ Home Screen:
 Start button & Settings
 
 
-Game:
+Gameplay:
   
 a Grid layout of Randomaized 24 Syllablic glyph
   
@@ -46,4 +46,4 @@ Icons
 Glyph Sprites
 
 */ Lanugage Instruction from Dakelh Elder in Britsh Columbia and abroad.
-For the Children, who will preserve and revitilize the language. */
+For the Children, who will preserve and revitilize the language. /*
