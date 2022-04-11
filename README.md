@@ -27,8 +27,12 @@ TO DO:
 - Create Background
 - Create Buttons sprites 
 - Create Menu
-- Create Game Scene
+- Create Audio
+- Create Scene
 - Create Glyph font - Complete
+
+
+
 
 -Using Unified Canadian Aboriginal Syllabics UTF-8 create a font for Syllabic's 
   - Dakelh / Carrier (Dakelh Preferred)
