@@ -29,7 +29,7 @@ TO DO:
 - Create Menu
 - Create Audio
 - Create Scene
-- Create Glyph font - Complete
+- Create Glyph/Sylabbic  Font
 
 
 
@@ -38,7 +38,7 @@ TO DO:
   - Dakelh / Carrier (Dakelh Preferred)
   - Syllabic:
   (https://www.ydli.org/dakinfo/dulktop.htm) (https://www.unicode.org/charts/PDF/U1400.pdf)
--	CLC Standardization:
+	-CLC Standardization:
   http://www.ydli.org/dakinfo/clcexp.htm
 
 

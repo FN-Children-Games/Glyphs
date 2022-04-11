@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GameController : MonoBehaviour
 {
+    //
     [SerializeField] List<AudioClip> _audioClips;
 
     // List of unicode characters.
@@ -33,28 +34,32 @@ public class GameController : MonoBehaviour
     /u166B, /u166C"
         */ 
      
-    // This is the char that will be replaced by the unicode characters.
+    // This is the char that i am trying to replace with the "list" of by the unicode characters.
     public char Letter = 'a';
-    
+
+    // Corect answers for the game.
     int _correctAnswers = 5;
+
+    // The current clicks.
     int _correctClicks;
     
+    //
     public static GameController Instance { get; private set; }
-
+    //
     AudioSource _audioSource;
-
+    //
     void Awake()
     {
         Instance = this;
         _audioSource = GetComponent<AudioSource>();
     }
-
+    //
     void OnEnable()
     {
         GenerateBoard();
         UpdateDiplayLetters();
     }
-
+    // 
     void GenerateBoard()
     {
         var clickables = FindObjectsOfType<ClickableLetter>();
@@ -82,6 +87,7 @@ public class GameController : MonoBehaviour
         FindObjectOfType<RemainingCounterText>().SetRemaining(_correctAnswers - _correctClicks);
     }
 
+    // 
     internal void HandleCorrectLetterClick(bool upperCase)
     {
         var clip = _audioClips.FirstOrDefault(t => t.name == Letter.ToString());
@@ -101,6 +107,7 @@ public class GameController : MonoBehaviour
         }
     }
 
+    // Next Letter should be called from list of unicode when the player has clicked all the correct letters.
     private void MoveToNextLetter()
     {
         Letter++;
@@ -109,6 +116,7 @@ public class GameController : MonoBehaviour
             Letter = 'a';
     }
 
+    //  
     private void UpdateDiplayLetters()
     {
         foreach (var displayletter in FindObjectsOfType<DisplayLetter>())
@@ -116,7 +124,7 @@ public class GameController : MonoBehaviour
             displayletter.SetLetter(Letter);
         }
     }
-
+    // 
     private char ChooseInvalidRandomLetter()
     {
         int a = UnityEngine.Random.Range(0, 26);

@@ -3,8 +3,10 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 
 public class ClickableLetter : MonoBehaviour, IPointerClickHandler
-{
+{   
+    // not sure what to do with _randomLetter
     char _randomLetter;
+    // bool _upperCase will be changed to _syllabicGlyph
     bool _upperCase;
     public void OnPointerClick(PointerEventData eventData)
     {
@@ -13,10 +15,12 @@ public class ClickableLetter : MonoBehaviour, IPointerClickHandler
         {
             GetComponent<TMP_Text>().color = Color.green;
             enabled = false;
+            // _upperCase should be changed to _syllabicGlyph
             GameController.Instance.HandleCorrectLetterClick(_upperCase);
         }
     }
 
+    // Reformat to set letter from list of Unicode
     public void SetLetter(char letter)
     {
         enabled = true;
