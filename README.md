@@ -5,7 +5,7 @@ An Open Source Collective creating educational games for learning aboriginal syl
 README.md
 
 
-Objective: Create a IOS, Android, PC compatable WebGame for children Teaching aboriginal Syllabic
+Objective: Create a IOS, Android, PC compatable Game for Teaching children aboriginal Syllabics.
 
 
 -Using Unified Canadian Aboriginal Syllabics UTF-8 create a font for Syllabic's 
@@ -19,31 +19,33 @@ Objective: Create a IOS, Android, PC compatable WebGame for children Teaching ab
   http://www.ydli.org/dakinfo/clcexp.htm
 
 
-Intended Gameplay Mechanics:
 
 Home Screen:
- 
-Start button & Settings
+
+- Home Screen with start button & Settings
+
+- Start button will direct player to first (Scene)
 
 
 Gameplay:
-  
-a Grid layout of Randomaized 24 Syllablic glyph
-  
-5 of the 24 letters  will be the correct answer the remainer will be incorrect.
 
-Have the correct letter highlighted when pressed.
-
-Have play's the audio of sound.
-
-When All 5 are selected correctly and highlighted move to the next Syllablic glyph
+- The Scene will be made of 24 Syllablic glyph's in a Grid layout
   
-Assets:
-Background
-Buttons
-Menu
-Icons
-Glyph Sprites
+- 5 of the 24 letters will be the correct answer the remainer will be incorrect.
+
+- When the correct letter is pressed it should be highlighted.
+
+- when the correct letter is pressed audio of the glyph will play the assoicated sound.
+
+- When All 5 are selected correctly and highlighted move to the next Syllablic glyph
+  
+TO DO:
+
+Create Background
+Create Buttons sprites 
+Create Menu
+Create Game Scene
+Create Glyph font - Complete
 
 */ Lanugage Instruction from Dakelh Elder in Britsh Columbia and abroad.
 For the Children, who will preserve and revitilize the language. /*
