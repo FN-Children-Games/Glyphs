@@ -1,6 +1,6 @@
 # Glyphs
 
-An Open-Source educational games for learning aboriginal syllabics.
+An Open-Source educational game for learning aboriginal syllabics.
 
 README.md
 
@@ -15,10 +15,10 @@ Home Screen:
 
 
 Gameplay: (Average Scene Layout)
-- The Scene will be made of 24 Syllabic glyphs in a Grid layout
-- 5 of the 24 letters will be the correct answer the Remainer will be incorrect.
-- When the correct letter is pressed it should be highlighted.
-- when the correct letter is pressed audio of the glyph will play the associated sound.
+- The Scene will contain of 23 Syllabic glyphs in a Grid layout group.
+- 5 of the 23 glyphs will be the correct answer the Remainer will be incorrect.
+- When the correct glyph is pressed it should be highlighted.
+- when the correct glyph is pressed audio of the glyph will play the associated sound.
 - Counter Tracking remaining correct glyphs correct.
 - When All 5 are selected correctly and highlighted move to the next Syllabic glyph
 
@@ -29,7 +29,7 @@ TO DO:
 - Create Menu
 - Create Audio
 - Create Scene
-- Create Glyph/Sylabbic  Font
+- Create Glyph/Syllabic  Font
 
 
 
