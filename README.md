@@ -41,11 +41,11 @@ Gameplay:
   
 TO DO:
 
-Create Background
-Create Buttons sprites 
-Create Menu
-Create Game Scene
-Create Glyph font - Complete
+- Create Background
+- Create Buttons sprites 
+- Create Menu
+- Create Game Scene
+- Create Glyph font - Complete
 
-*/ Lanugage Instruction from Dakelh Elder in Britsh Columbia and abroad.
-For the Children, who will preserve and revitilize the language. /*
+ Lanugage Instruction from Dakelh Elder in Britsh Columbia and abroad.
+For the Children, who will preserve and revitilize the language.
