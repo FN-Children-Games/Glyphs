@@ -27,9 +27,10 @@ Gameplay: (Average Scene Layout)
 TO DO:
 - Create Homescene Background - Done
 - Create Gamescene Background - Done
-- Create Buttons sprites 
-- Create Menu
-- Create Audio
+- Create Start Button - Done
+- Create Return Button - Done
+- Create drop down menu
+- Record Glyph Sound
 - Create Backend Code
 - Create Glyph/Syllabic Font - Done
 
