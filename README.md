@@ -22,16 +22,20 @@ Gameplay: (Average Scene Layout)
 - when the correct glyph is pressed audio of the glyph will play the associated sound.
 - Counter Tracking remaining correct glyphs correct.
 - When All 5 are selected correctly and highlighted move to the next Syllabic glyph
-![image](https://user-images.githubusercontent.com/26759760/163044787-35e88e52-3bf3-44b2-855a-42fe790233a6.png)
+![image](https://user-images.githubusercontent.com/26759760/163046467-eae90a71-7de4-479c-9da4-d28acf348348.png)
+
+![image](https://user-images.githubusercontent.com/26759760/163046498-aa59c787-7b08-406d-8d1e-1f88c8c1fb44.png)
+
 
   
 TO DO:
-- Create Background
+- Create Homescene Background - Done
+- Create Gamescene Background - Done
 - Create Buttons sprites 
 - Create Menu
 - Create Audio
 - Create Scene
-- Create Glyph/Syllabic  Font
+- Create Glyph/Syllabic Font - Done
 
 
 
