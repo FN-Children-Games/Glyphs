@@ -12,7 +12,7 @@ Home Screen:
 - Home Screen with start button & Settings
 
 - Start button will direct player to first (Scene)
-![image](https://user-images.githubusercontent.com/26759760/163044828-cc0f28ea-2828-4809-b20f-d5770a016341.png)
+![image](https://user-images.githubusercontent.com/26759760/163059338-fb20c049-7e24-459e-8c0d-59eb5c1caaa0.png)
 
 
 Gameplay: (Average Scene Layout)
