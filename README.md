@@ -1,10 +1,5 @@
 # Glyphs
 
-An Open-Source educational game for learning aboriginal syllabics.
-
-README.md
-
-
 Objective: Create an IOS, Android, PC compatible Game for Teaching children aboriginal Syllabics.
 
 Home Screen:
