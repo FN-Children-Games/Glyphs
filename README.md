@@ -12,6 +12,7 @@ Home Screen:
 - Home Screen with start button & Settings
 
 - Start button will direct player to first (Scene)
+![image](https://user-images.githubusercontent.com/26759760/163044828-cc0f28ea-2828-4809-b20f-d5770a016341.png)
 
 
 Gameplay: (Average Scene Layout)
@@ -21,6 +22,7 @@ Gameplay: (Average Scene Layout)
 - when the correct glyph is pressed audio of the glyph will play the associated sound.
 - Counter Tracking remaining correct glyphs correct.
 - When All 5 are selected correctly and highlighted move to the next Syllabic glyph
+![image](https://user-images.githubusercontent.com/26759760/163044787-35e88e52-3bf3-44b2-855a-42fe790233a6.png)
 
   
 TO DO:
