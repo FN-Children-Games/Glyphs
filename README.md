@@ -29,7 +29,7 @@ TO DO:
 - Create Gamescene Background - Done
 - Create Start Button - Done
 - Create Return Button - Done
-- Create drop down menu
+- Create Drop Down Menu, Settings Menu, Mute Button
 - Record Glyph Sound
 - Create Backend Code
 - Create Glyph/Syllabic Font - Done
