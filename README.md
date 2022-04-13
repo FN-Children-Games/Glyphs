@@ -29,10 +29,11 @@ TO DO:
 - Create Gamescene Background - Done
 - Create Start Button - Done
 - Create Return Button - Done
-- Create Drop Down Menu, Settings Menu, Mute Button
-- Record Glyph Sound
-- Create Backend Code
-- Create Glyph/Syllabic Font - Done
+- Create Drop Down Menu, Settings Menu, Mute Button - Done
+- Add Mute Functionality to Setting > Mute
+- Record Homescreen Background Audio
+- Record Glyph Character Sound
+- Create Glyph/Syllabic Text Mesh Pro Font Asset - Done
 
 
 
