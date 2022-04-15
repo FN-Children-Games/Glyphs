@@ -12,8 +12,8 @@ Home Screen:
 
 
 Gameplay: (Average Scene Layout)
-- The Scene will contain of 23 Syllabic glyphs in a Grid layout group.
-- 5 of the 23 glyphs will be the correct answer the Remainer will be incorrect.
+- The Scene will contain of 24 Syllabic glyphs in a Grid layout group.
+- 5 of the 24 glyphs will be the correct answer the Remainer will be incorrect.
 - When the correct glyph is pressed it should be highlighted.
 - when the correct glyph is pressed audio of the glyph will play the associated sound.
 - Counter Tracking remaining correct glyphs correct.
