@@ -31,7 +31,7 @@ TO DO:
 - Record Homescreen Background Audio
 - Record Glyph Character Sound
 - Create Glyph/Syllabic Text Mesh Pro Font Asset - Done
-
+- Add Unity Project To Github
 
 
 
