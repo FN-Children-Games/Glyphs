@@ -57,5 +57,9 @@ TO DO:
   http://www.ydli.org/dakinfo/clcexp.htm
 
 
+Source Code for board and clickable letters take from; 
+
+https://game.courses/kidsgame/?ref=15&utm_source=youtube&utm_medium=description&utm_campaign=kidsgame
+
  Language Instruction from Dakelh Elder in British Columbia and abroad.
 For the Children, who will preserve and revitalize the language.
