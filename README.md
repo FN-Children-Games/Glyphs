@@ -1,5 +1,20 @@
 # Glyphs
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+How to run:
+
+Download repository from github.
+
+in the repository navigate to Assets > Text Mesh Pro > Fonts > Unzip "oskidakelh1 SDF" into same folder.
+
+Open Unity Hub > select Open Drop down > Add Project from Disk >  
+
+Before opening file select Unity version 2021.3.0f1 (LTS)
+
+Launch Project
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Objective: Create an IOS, Android, PC compatible Game for Teaching children aboriginal Syllabics.
 
 Home Screen:
