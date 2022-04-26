@@ -3,9 +3,9 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 How to run:
 
-Download Repository
+Download repository from github.
 
-in the repository navigate to Assets > Text Mesh Pro > Fonts > Unzip "oskidakelh1 SDF"
+in the repository navigate to Assets > Text Mesh Pro > Fonts > Unzip "oskidakelh1 SDF" into same folder.
 
 Open Unity Hub > select Open Drop down > Add Project from Disk >  
 
