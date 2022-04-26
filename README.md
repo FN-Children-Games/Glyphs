@@ -46,9 +46,8 @@ TO DO:
 - Record Homescreen Background Audio
 - Record Glyph Character Sound
 - Create Glyph/Syllabic Text Mesh Pro Font Asset - Done
-- Add Unity Project To Github
-
-
+- Add Unity Project To Github - Done
+- Scripts that need to be modified are located in the Assets > Scripts and are the following (ClickableLetter, DisplayLetter, GameController & RemainingCounterText)
 
 -Using Unified Canadian Aboriginal Syllabics UTF-8 create a font for Syllabic's 
   - Dakelh / Carrier (Dakelh Preferred)
