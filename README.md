@@ -37,17 +37,19 @@ Gameplay: (Average Scene Layout)
 ![Capture](https://user-images.githubusercontent.com/26759760/163282654-deeff564-3a17-4505-bccc-696eaa116e3b.JPG)
 
 TO DO:
+- Add Mute Functionality to Setting > Mute
+- Record Homescreen Background Audio
+- Record Glyph Character Sound
+- Scripts that need to be modified are located in the Assets > Scripts and are the following (ClickableLetter, DisplayLetter, GameController & RemainingCounterText)
+
+COMPLETE:
 - Create Homescene Background - Done
 - Create Gamescene Background - Done
 - Create Start Button - Done
 - Create Return Button - Done
 - Create Drop Down Menu, Settings Menu, Mute Button - Done
-- Add Mute Functionality to Setting > Mute
-- Record Homescreen Background Audio
-- Record Glyph Character Sound
 - Create Glyph/Syllabic Text Mesh Pro Font Asset - Done
 - Add Unity Project To Github - Done
-- Scripts that need to be modified are located in the Assets > Scripts and are the following (ClickableLetter, DisplayLetter, GameController & RemainingCounterText)
 
 -Using Unified Canadian Aboriginal Syllabics UTF-8 create a font for Syllabic's 
   - Dakelh / Carrier (Dakelh Preferred)
@@ -57,7 +59,7 @@ TO DO:
   http://www.ydli.org/dakinfo/clcexp.htm
 
 
-Source Code for board and clickable letters take from; 
+Source Code for board and clickable letters borrowed from; 
 
 https://game.courses/kidsgame/?ref=15&utm_source=youtube&utm_medium=description&utm_campaign=kidsgame
 
